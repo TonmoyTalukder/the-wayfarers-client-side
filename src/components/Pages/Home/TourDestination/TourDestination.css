@@ -1,0 +1,21 @@
+.tourDestination {
+  background-color: transparent;
+  border-radius: 20px;
+  text-align: start;
+  border: 1px solid gray;
+}
+
+.tourDestination img {
+  border-radius: 20px;
+  width: 100%;
+  margin-bottom: 6px;
+}
+
+/* style="width: 18rem;" */
+.custom-card-style {
+  width: 18rem;
+  background-color: transparent;
+  border-radius: 20px;
+  text-align: start;
+  border: 1px solid gray;
+}

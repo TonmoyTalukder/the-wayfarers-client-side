@@ -1,0 +1,18 @@
+.upper-logo-img {
+  width: 60px;
+}
+.header-dp {
+  width: 45px;
+}
+.btn-bg {
+  background-color: transparent;
+  margin-top: 2px;
+  color: rgb(151, 149, 149);
+  font-weight: 500;
+}
+.btn-bg:hover {
+  background-color: transparent;
+  margin-top: 2px;
+  color: rgb(151, 149, 149);
+  font-weight: 500;
+}

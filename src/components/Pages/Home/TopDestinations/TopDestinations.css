@@ -1,0 +1,81 @@
+.las-vegas {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/las-vegas.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.new-orleans {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/new-orleans.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.charleston {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/charleston.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.key-west {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/key-west.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.new-york {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/new-york.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.chicago {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/chicago.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.cancun {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/cancun.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.nashville {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/nashville.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}
+.san-francisco {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/san-francisco.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+  /* color: rgb(255, 235, 235); */
+}
+.oahu {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/topDestinations/oahu.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 1px 3px #181717;
+}

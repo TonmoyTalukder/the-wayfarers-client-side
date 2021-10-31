@@ -1,0 +1,15 @@
+.banner {
+  text-align: center;
+  background: rgb(0, 0, 0) url("/src/images/banner-final.jpg") no-repeat fixed
+    bottom;
+  /* background-size: 1813px 671px; */
+  height: 450px;
+  width: 100%;
+  color: #fcf6f4;
+  text-shadow: 1px 3px #181717;
+  background-position-y: center;
+}
+
+.banner-logo {
+  width: 200px;
+}

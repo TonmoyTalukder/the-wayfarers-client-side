@@ -1,0 +1,11 @@
+/* style="width: 18rem;" */
+.card-custom-style {
+  width: 18rem;
+  background-color: transparent;
+  border: 1px solid rgb(160, 158, 158);
+  height: 15rem;
+}
+.card-custom-style:hover {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,32 @@
+.thailand {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/blogs/thailand.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 3px 1px #181717;
+}
+.private-vs-group {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/blogs/private-vs-group.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 3px 1px #181717;
+}
+.poland {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/blogs/poland.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 3px 1px #181717;
+}
+.alberta {
+  height: 200px;
+  width: 250px;
+  background-image: url("../../../../images/blogs/alberta.jpg");
+  background-size: 250px 200px;
+  border-radius: 5px;
+  text-shadow: 3px 1px #181717;
+}
