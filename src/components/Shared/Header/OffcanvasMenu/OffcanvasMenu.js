@@ -85,7 +85,9 @@ const OffcanvasMenu = () => {
                     </ul>
                     <hr />
                     <div className="text-start">
-                        <p className="small text-muted mb-0">&copy; Copyrights. All rights reserved. <br /> <a className="text-primary" href="#">https://the-wayfarers.web.app/</a></p>
+                        <h4>Developer: <a href="https://tonmoy-talukder.netlify.app/">Tonmoy Talukder</a></h4>
+                        <p className="small text-muted mb-0">&copy; Copyrights. All rights reserved. <br /> <a className="text-primary" href="#">https://the-wayfarers.web.app/</a> 
+                        </p>
                     </div>
                 </div>
             </div>
